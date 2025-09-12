@@ -1,74 +1,63 @@
-🌐 Personal Portfolio Website
+# 🌐 Personal Portfolio Website
 
-This repository contains the source code for my Portfolio Website, hosted using GitHub Pages at:
-🔗 View Live Website
+This repository contains the source code for my **Portfolio Website**, hosted using **GitHub Pages** at:  
+🔗 [View Live Website](https://amitdas09.github.io/Portfolio-Website/)
 
-📖 About
+---
 
+## 📖 About
 This is my personal portfolio website designed to showcase:
+- 👨‍💻 My skills and technical expertise  
+- 🚀 Projects I have built  
+- 📚 Education and achievements  
+- 📬 Contact details for collaboration and opportunities  
 
-👨‍💻 My skills and technical expertise
+---
 
-🚀 Projects I have built
+## 🛠️ Tech Stack
+- **Frontend:** HTML, CSS, JavaScript, SCSS  
+- **Fonts & Icons:** Custom fonts (in `/fonts`)  
+- **Styling Workflow:** Prepros for SCSS compilation  
+- **Hosting:** GitHub Pages  
 
-📚 Education and achievements
+---
 
-📬 Contact details for collaboration and opportunities
-
-🛠️ Tech Stack
-
-Frontend: HTML, CSS, JavaScript, SCSS
-
-Fonts & Icons: Custom fonts (in /fonts)
-
-Hosting: GitHub Pages
-
-📂 Project Structure
-Portfolio-Website/
+## 📂 Project Structure
+  Portfolio-Website/
 │
-├── css/                 # Compiled CSS stylesheets
-├── fonts/               # Font files
-├── images/              # Images and media
-├── js/                  # JavaScript files
-├── scss/                # SCSS source stylesheets
+├── css/ # Compiled CSS stylesheets
+├── fonts/ # Font files
+├── images/ # Images and media
+├── js/ # JavaScript files
+├── scss/ # SCSS source stylesheets
 │
-├── .DS_Store            # System file (can be ignored)
-├── index.html           # Main homepage
-├── prepros-6.config     # Prepros config file
+├── .DS_Store # System file (can be ignored)
+├── index.html # Main homepage
+├── prepros-6.config # Prepros configuration file for SCSS
 └── README.md
 
-🚀 Deployment
+## 🚀 Deployment
 
-This website is hosted for free using GitHub Pages.
+This website is hosted for free using **GitHub Pages**.
 
 To deploy your own version:
 
-Fork or clone this repository.
+1. Fork or clone this repository.  
+2. Go to **Settings → Pages**.  
+3. Under **Branch**, select `main` and `/ (root)`.  
+4. Save → Your portfolio will be live at:  https://amitdas09.github.io/Portfolio-Website/
 
-Go to Settings → Pages.
-
-Under Branch, select main and / (root).
-
-Save → Your portfolio will be live at:
-
-[https://yourusername.github.io/your-repository/](https://amitdas09.github.io/Portfolio-Website/)
-
-✨ Features
+## ✨ Features
 
 Responsive and modern design
 
-Organized SCSS to CSS workflow (via Prepros)
+1. Organized SCSS → CSS workflow (via Prepros)
+2. Project and skills showcase
+3. Simple navigation between sections
 
-Project and skills showcase
-
-Simple navigation between sections
-
-📧 Contact
+## 📧 Contact
 
 If you’d like to connect, feel free to reach out:
 
-📩 Email: das285amit@gmail.com.com
+📩 Email: das285amit@gmail.com
 
-💼 LinkedIn: Your LinkedIn
-
-💻 GitHub: amitdas09
