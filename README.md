@@ -22,19 +22,6 @@ This is my personal portfolio website designed to showcase:
 
 ---
 
-## 📂 Project Structure
-Portfolio-Website/
-│
-├── css/                 # Compiled CSS stylesheets
-├── fonts/               # Font files
-├── images/              # Images and media
-├── js/                  # JavaScript files
-├── scss/                # SCSS source stylesheets
-│
-├── .DS_Store            # System file (can be ignored)
-├── index.html           # Main homepage
-├── prepros-6.config     # Prepros configuration file for SCSS
-└── README.md
 
 ## 🚀 Deployment
 
